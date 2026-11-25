@@ -1,4 +1,4 @@
-# shuffll-com
+# Shuffll
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,141 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-shuffll-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://shuffll.com/
+Shuffll provides an AI‑powered video personalization platform that lets brands create, script, and render custom video content at scale. Through its Engage platform and public API, developers can programmatically generate personalized video stories, integrate with webhooks, and white‑label the experience on their own domains. Shuffll’s solution targets marketing, e‑commerce, and customer‑journey use cases, offering tools for campaign automation, workflow recipes, and real‑time personalization across channels.
+
+**Areas:** Video · Personalization · Marketing · AI · Platform · Company
+
+## Shuffll on APIs.io
+
+Everything profiled for Shuffll is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/shuffll-com/](https://apis.io/providers/shuffll-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (24)
+
+- [Shuffll Access policies API](https://apis.io/apis/shuffll-com/shuffll-com-access-policies-api/) — Inspect and administer permitted API access.
+- [Shuffll API keys API](https://apis.io/apis/shuffll-com/shuffll-com-api-keys-api/) — Issue, inspect, rotate and revoke scoped credentials.
+- [Shuffll Assets API](https://apis.io/apis/shuffll-com/shuffll-com-assets-api/) — Browse owned assets and explicitly publish branding images.
+- [Shuffll Branding API](https://apis.io/apis/shuffll-com/shuffll-com-branding-api/) — Read and update workspace branding.
+- [Shuffll Campaigns API](https://apis.io/apis/shuffll-com/shuffll-com-campaigns-api/) — Create, configure and coordinate campaigns from published template versions. See each operation for rendering format and generation requirements.
+- [Shuffll Capabilities API](https://apis.io/apis/shuffll-com/shuffll-com-capabilities-api/) — Discover the operations available to the current principal.
+- [Shuffll Catalogs API](https://apis.io/apis/shuffll-com/shuffll-com-catalogs-api/) — Discover currently configured options available to your tenant.
+- [Shuffll Configuration API](https://apis.io/apis/shuffll-com/shuffll-com-configuration-api/) — Retrieve available options for AI voices, avatars, background music, and video category tags. Call these endpoints to populate field values when creating a…
+- [Shuffll Enhance API](https://apis.io/apis/shuffll-com/shuffll-com-enhance-api/) — Monitor the automatic post-production enhancement process (branding, subtitles, audio cleanup) that runs after a project is created.
+- [Shuffll Export API](https://apis.io/apis/shuffll-com/shuffll-com-export-api/) — Trigger video export and retrieve the final downloadable video URLs.
+- [Shuffll Generation API](https://apis.io/apis/shuffll-com/shuffll-com-generation-api/) — Explicitly start video generation for selected recipients.
+- [Shuffll Invitations API](https://apis.io/apis/shuffll-com/shuffll-com-invitations-api/) — Invite accounts and manage pending invitations.
+- [Shuffll Jobs API](https://apis.io/apis/shuffll-com/shuffll-com-jobs-api/) — Inspect asynchronous operation status and results.
+- [Shuffll Members API](https://apis.io/apis/shuffll-com/shuffll-com-members-api/) — Manage workspace membership and roles.
+- [Shuffll Organizations API](https://apis.io/apis/shuffll-com/shuffll-com-organizations-api/) — Create and manage child workspaces within your tenant.
+- [Shuffll Partners API](https://apis.io/apis/shuffll-com/shuffll-com-partners-api/) — Provision partners and manage their account status.
+- [Shuffll Production settings API](https://apis.io/apis/shuffll-com/shuffll-com-production-settings-api/) — Read and update campaign production settings.
+- [Shuffll Projects API](https://apis.io/apis/shuffll-com/shuffll-com-projects-api/) — Create, monitor, and manage AI-generated video projects.
+- [Shuffll Recipients API](https://apis.io/apis/shuffll-com/shuffll-com-recipients-api/) — Manage campaign recipients without generating or sending videos.
+- [Shuffll Results API](https://apis.io/apis/shuffll-com/shuffll-com-results-api/) — Retrieve video results and campaign render analytics.
+- [Shuffll Templates API](https://apis.io/apis/shuffll-com/shuffll-com-templates-api/) — Discover published templates and their immutable versions.
+- [Shuffll Transcription API](https://apis.io/apis/shuffll-com/shuffll-com-transcription-api/) — Workspace-scoped transcription for the supported template callback integration.
+- [Shuffll Uploads API](https://apis.io/apis/shuffll-com/shuffll-com-uploads-api/) — Create, finalize and revoke private image uploads.
+- [Shuffll Workspaces API](https://apis.io/apis/shuffll-com/shuffll-com-workspaces-api/) — Manage workspaces within an organization, and list projects within a workspace.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Shuffll Com Webhooks](https://apis.io/asyncapis/shuffll-com/shuffll-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Shuffll Agentic Access](https://apis.io/agentic-access/shuffll-com/shuffll-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Shuffll Com Context](https://apis.io/jsonld/shuffll-com/shuffll-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Shuffll API Rules](https://apis.io/rules/shuffll-com/shuffll-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Shuffll Authentication](https://apis.io/security/shuffll-com/shuffll-com-authentication/)
+- [Shuffll Domain Security](https://apis.io/security/shuffll-com/shuffll-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://shuffll.com/)
+- [Documentation](https://shuffll.com/reference/)
+- [Getting started](https://api-docs.shuffll.com/engage/quickstart)
+- [API reference](https://api-docs.shuffll.com/engage)
+- [Pricing](https://shuffll.com/pricing)
+- [Blog](https://shuffll.com/blog)
+- [Terms of service](https://shuffll.com/terms)
+- [Privacy policy](https://shuffll.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 50.0** — developing · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 62.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 31.6 |
+
+**Agent readiness 65.8** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/shuffll-com/](https://apis.io/providers/shuffll-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Shuffll: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/shuffll-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
